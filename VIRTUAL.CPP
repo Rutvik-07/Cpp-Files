@@ -1,3 +1,4 @@
+//program for pure virtual function
 #include<iostream.h>
 #include<conio.h>
 class a
